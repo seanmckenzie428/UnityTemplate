@@ -17,15 +17,15 @@
     - Materials
     - Models
     - Textures
+    - Shaders
   - Audio
     - Music
     - Sound
-  - Code
-    - Scripts
-    - Shaders
+  - Scripts
   - Docs
   - Editor
   - Level
+    - Input
     - Prefabs
     - Scenes
     - UI
